@@ -1,0 +1,5 @@
+| Model              | Code Quality             | Ease of Use | Speed/Latency | Comments                                                                                                                                    |
+| ------------------ | ------------------------ | ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GPT-4o**         |     Good            | Good   | Good          | Generated modular React+FastAPI templates; supported debugging and unit test writing. Handles Python edge cases.   |
+| **Claude Sonnet**  | Excellent                     | Excellent   | Good          | Better reasoning flow for larger prompts; minor syntax issues in Python decorators generics.                                 |
+| **DeepSeek-R1:7B** | Basic or Limited Support | Good        | Good          | Works well for simple code snippets in Python, and JS.
