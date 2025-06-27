@@ -1,0 +1,16 @@
+[project]
+name = "ai-builder"
+version = "0.1.0"
+description = "A simple client to interact with Ollama API"
+authors = ["AK <chermanarun@gmail.com>"]
+dependencies = [
+    "ollama>=0.5.1",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.4",
+    "ruff>=0.12.0",
+    "streamlit>=1.46.0",
+]
+requires-python = ">=3.9"
+
+[project.scripts]
+ollama-client = "main:main"
